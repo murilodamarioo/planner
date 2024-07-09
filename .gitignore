@@ -1,0 +1,24 @@
+# Logs
+frontend-planner/logs
+frontend-planner/*.log
+frontend-planner/npm-debug.log*
+frontend-planner/yarn-debug.log*
+frontend-planner/yarn-error.log*
+frontend-planner/pnpm-debug.log*
+frontend-planner/lerna-debug.log*
+
+frontend-planner/node_modules
+frontend-planner/dist
+frontend-planner/dist-ssr
+frontend-planner/*.local
+
+# Editor directories and files
+frontend-planner/.vscode/*
+frontend-planner/!.vscode/extensions.json
+frontend-planner/.idea
+frontend-planner/.DS_Store
+frontend-planner/*.suo
+frontend-planner/*.ntvs*
+frontend-planner/*.njsproj
+frontend-planner/*.sln
+frontend-planner/*.sw?
