@@ -10,8 +10,7 @@ input {
   color-scheme: dark;
 }
 
-.rdp {
-  --rdp-accent-color: #BEF264;
-  --rdp-background-color: #BEF264;
-  --rdp-selected-color: #1A2E05;
+.rdp-root {
+  --rdp-accent-color: #a3e635;
+  --rdp-accent-background-color: #a3e635;
 }
