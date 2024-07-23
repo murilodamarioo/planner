@@ -25,7 +25,7 @@ export function CreateActivityModal({ closeCreateActivityModal }: CreateActivity
       occurs_at
     })
 
-    closeCreateActivityModal()
+    window.document.location.reload()
   }
 
   return (
